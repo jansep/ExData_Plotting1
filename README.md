@@ -2,7 +2,7 @@
 
 The repository includes the R files and associated images files for the Exploratory Data Analysis course project #1. 
 
-## Instruction for running the R scripts
+## Instructions for running the R scripts
 
 * Copy the R scripts to a new directory.
 * Download the <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> datasheet.
