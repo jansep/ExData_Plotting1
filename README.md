@@ -1,6 +1,8 @@
 ## Summary
 
-The repository includes the R files and associated images files for the Exploratory Data Analysis course project #1. 
+The repository includes the R files and associated images files for the Exploratory Data Analysis course project #1. The image files are in the "figure" folder.
+
+
 
 ## Instructions for running the R scripts
 
